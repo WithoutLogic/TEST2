@@ -1,0 +1,19 @@
+{
+    "files": {
+        "index.js": "e57535b6fef24f442e7d8a361bb57adc0b4a21b46fdf23b5f24a1dec72aa3fdd",
+        "module.json": "736a99cabf45f081086ea08824dadc6a2b6a7ddd5cd79e044c4db4a663db1a29",
+        "settings_migrator.js": "5ab53042fbe11e40358731289d85ae33d15fdae2ef93a787e710290d4c76e50a",
+        "settings_structure.js": "db7608272aac3a2ef7406ee04f7c84d12acb7a3524303fd528bffb2d39b73a96"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_DESPAWN_NPC": 3,
+        "S_SPAWN_COLLECTION": 4,
+        "S_SPAWN_DROPITEM": 8,
+        "S_SPAWN_NPC": 11
+    }
+}
